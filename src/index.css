@@ -11,3 +11,22 @@ body {
   background: linear-gradient(135deg, rgba(72,11,158,1) 0%, rgba(9,121,93,1) 48%, rgba(46,95,136,1) 100%) no-repeat;
   background-size: cover;
 }
+
+a, a:active, a:visited {
+	color: inherit;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+
+/*footer styles*/
+footer.site-footer {
+  padding-top: 1rem;
+}
+
+footer.site-footer a {
+  color: white;
+}
+
